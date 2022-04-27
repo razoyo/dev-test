@@ -91,4 +91,8 @@ When you select a different animal, the profile photo should change. The selecti
 Implement the ability to save the animal selection so that refreshing the page keeps your animal selection.
 
 ### Submit your work
-When you have completed the feature, submit a pull request to the *master* branch of this repository.
+When you have completed the feature, send an email to: assessments@razoyo.com
+
+The email needs to contain a link to your own git repository branch with the code submission.
+
+Do *not* submit a pull request.
