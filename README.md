@@ -95,4 +95,4 @@ When you have completed the feature, send an email to: assessments@razoyo.com
 
 The email needs to contain a link to your own git repository branch with the code submission.
 
-Do *not* submit a pull request.
+Please do *not* submit a pull request.
